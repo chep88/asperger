@@ -1,0 +1,35 @@
+nav{
+	margin-bottom: 5%;
+}
+
+body{
+	padding-top: 41px;
+}
+
+a{
+	text-decoration:none;
+}
+
+.mapa{
+	max-height: 100px;
+}
+
+.footer{
+	padding-top: 10%;	
+}
+
+.jumbotron{
+	padding-bottom: 0;
+}
+
+.fa-twitter{
+	color: #1DA1F2;
+}
+
+.fa-facebook-official{
+	color: #3b5998;
+}
+
+.fa-whatsapp{
+	color: #25D366;
+}
