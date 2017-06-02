@@ -10,6 +10,9 @@ a{
 	text-decoration:none;
 }
 
+footer{
+    border-bottom: 1px solid white;
+}
 .mapa{
 	max-height: 100px;
 }
@@ -33,3 +36,19 @@ a{
 .fa-whatsapp{
 	color: #25D366;
 }
+.thumbnail img{
+	height: 50%;
+}
+
+.thum{
+	padding-top: 5%;
+}
+#slogan{
+	text-align: center;
+	padding-bottom: 2%
+}
+.jumbotron{
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
