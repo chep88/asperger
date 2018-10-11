@@ -18,7 +18,7 @@ footer{
 }
 
 .footer{
-	padding-top: 10%;	
+	padding-top: 10%;
 }
 
 .jumbotron{
@@ -43,12 +43,13 @@ footer{
 .thum{
 	padding-top: 5%;
 }
+
 #slogan{
 	text-align: center;
 	padding-bottom: 2%
 }
+
 .jumbotron{
 	padding-bottom: 0;
 	margin-bottom: 0;
 }
-
